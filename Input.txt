@@ -1,6 +1,6 @@
 define start (bob: integer; bill: integer)
 variables a,b : integer
-constants pi = "boyyy"
+constants pi = "shine"
 	a:=5
 	b:=7
 	if a < b then
