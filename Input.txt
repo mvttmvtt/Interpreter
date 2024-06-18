@@ -1,0 +1,9 @@
+define start (bob: integer; bill: integer)
+variables a,b : integer
+constants pi = "boyyy"
+	a:=5
+	b:=7
+	if a < b then
+		write "hello world"
+		write a + b
+end
